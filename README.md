@@ -5,7 +5,7 @@
 Las pláticas pueden ser de dos tipos: Un caso de éxito o una plática de emprendimiento, ya sea personal o de una empresa a la cual tengas permiso de recibir más gente que te ayude. No importa si no es tecnológica la plática, siempre que ayude a demostrar el talento que Colima tiene para ofrecer. Nuestro proceso de selección de pláticas es muy sencillo, y consta de tres pasos:
 
 1. Propon tu plática de caso de éxito o emprendimiento.
-2. La compartes en los issues.
+2. La compartes en los [issues](https://github.com/TalentNights/Colima/issues).
 3. En conjunto la revisaremos y te daremos retroalimentación para pulirla. Al igual que una fecha tentativa.
 
 ### Soy un speaker, ¿ahora qué?
