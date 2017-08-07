@@ -15,6 +15,6 @@ De los eventos pasados, estaremos grabando y poniendo en línea para que puedan 
 
 ## Código de Conducta
 
-Tanto los eventos como la comunicación entre los miembros de la comunidad deben apegarse a lo establecido por el [código de conducta](https://github.com/eventloop/codigo-de-conducta).
+Tanto los eventos como la comunicación entre los miembros de la comunidad deben apegarse a lo establecido por el [código de conducta](https://github.com/TalentNights/codigo-de-conducta).
 
 ### Especial agradecimiento a [EventLoop](https://github.com/eventloop) por sus documentos.
